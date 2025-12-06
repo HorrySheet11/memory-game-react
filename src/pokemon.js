@@ -12,16 +12,16 @@ export const pokemon = [
         img: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png",
     },
     {
-        name: "Lucario",
-        img: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448.png",
+        name: "Dracovish",
+        img: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/882.png",
     },
     {
         name: "Garchomp",
         img: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png",
     },
     {
-        name: "Infernape",
-        img: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png",
+        name: "Great Tusk",
+        img: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/984.png",
     },
     {
         name: "Swampert",
